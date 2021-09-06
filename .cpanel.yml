@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/connexxtel/igov.connexxiontelecom.com/
+    - export DEPLOYPATH=/home/connexxtel/nisigov.connexxiontelecom.com/
     - /bin/cp -R * $DEPLOYPATH

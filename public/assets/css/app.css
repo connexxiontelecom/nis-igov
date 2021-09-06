@@ -1,3 +1,4 @@
+
 /*
 Template Name: Ubold - Responsive Bootstrap 4 Admin Dashboard
 Author: CoderThemes
@@ -550,7 +551,7 @@ body[data-sidebar-icon="twotones"] #sidebar-menu > ul > li > a svg {
   display: none; }
 
 .navbar-custom {
-  background-color: #008751;
+  background-color: #CEC2AA;
   box-shadow: 0 0 35px 0 rgba(154, 161, 171, 0.15);
   padding: 0 10px 0 0;
   position: fixed;
